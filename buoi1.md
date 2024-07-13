@@ -1,0 +1,6 @@
+# Bài 1: Python là ngôn ngữ thông dịch, điều này nghĩa là ngôn ngữ này trực tiếp chạy từng dòng mã. Nếu có lỗi trong mã chương trình, nó sẽ ngừng chạy. Do đó, lập trình viên có thể nhanh chóng tìm ra lỗi trong đoạn mã.
+# Python là ngôn ngữ thông dịch vì:
+# - Trình thông dịch: Python sử dụng trình thông dịch để thực thi mã nguồn. Trình thông dịch đọc mã nguồn, dịch từng dòng lệnh thành mã máy và thực thi ngay lập tức.
+# - TÍnh linh hoạt và dễ sử dụng: việc sử dụng trình thông dịch giúp Python trở nên rất linh hoạt và dễ sử dụng, vì lập trình viên không cần phải biên dịch mã nguồn thành mã máy trước khi chạy. Điều này giúp tăng tốc độ phát triển và kiểm tra mã.
+# - Phát triển nhanh: với ngôn ngữ thông dịch như Python, việc sửa đổi mã vàk iểm tra kết quả trở nên nhanh chóng hơn vì không có bước biên dịch trung gian. Điều này làm cho Python trở thành một công cụ mạnh mẽ trong việc phát triểN ứng dụng nhanh chóng.
+# - Khả năng tương tác: Python có thể dễ dàng tương tác với các ngôn ngữ khác và các thư viện, nhờ vào khả năng thông dịch. Điều này làm cho Python trở thành một lựa chọn phổ biến cho các dự án đa ngôn ngữ và các ứng dụng yêu cầu tích hợp với các hệ thống khác.
