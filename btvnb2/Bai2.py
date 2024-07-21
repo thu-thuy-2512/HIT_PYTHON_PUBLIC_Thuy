@@ -1,0 +1,18 @@
+a = int(input("a = "))
+b = int(input("b = "))
+print("a + b = ", a + b)
+print("a - b = ", a - b)
+print("a * b = ", a * b)
+if b != 0: 
+    print("a // b = ", a // b)
+print("a ^ b = ", a ** b)
+if b != 0:
+    print("a % b = ", a % b)
+print("a > b : ", a > b)
+print("a < b : ", a < b)
+print("a == b : ", a == b)
+print("a and b : ", a > 0 and b > 0 )
+print("a or b : ", a > 10 or b < 5)
+print("not a == b : ", not a == b)
+print('a dịch sang phải một đơn vị =',a >> 1)
+print('a dịch sang trái một đơn vi =',a << 1)
